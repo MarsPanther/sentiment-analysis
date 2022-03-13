@@ -1,4 +1,4 @@
-# MDB Movie Ratings Sentiment Analysis
+# IMDB Movie Ratings Sentiment Analysis
 
 # Flask running
 - flask run
